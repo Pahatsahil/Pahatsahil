@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sahil(@Pahatsahil)
-- 👀 I’m interested in Java, Web Developing
-- 🌱 I’m currently learning Javascript, PHP
+- 👀 I’m interested in Javascript, React
+- 🌱 I’m currently working as React Native Developer
 - 💞️ I’m looking to collaborate on any type of projects
 - 📫 How to reach me:
 -  Email: sahilpahat12@gmail.com 
